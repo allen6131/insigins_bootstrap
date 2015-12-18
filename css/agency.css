@@ -647,6 +647,9 @@ font-weight: bold;
     background-color: yellow;
 }
 
+.text_color {
+    color: black;
+}
 
 
 @font-face {
